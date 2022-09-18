@@ -18,5 +18,6 @@ We test this value to see whether the predicted value is close to the expected v
 Resources from: 
 * <https://medium.com/technology-invention-and-more/how-to-build-a-multi-layered-neural-network-in-python-53ec3d1d326a>
 * <https://github.com/tcwangshiqi-columbia/Neurify>
+
 Research lab: 
 * <https://sees-usf.github.io/>
